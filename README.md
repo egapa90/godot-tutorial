@@ -6,6 +6,8 @@
 
 Copyright (c) 2026 Naufal Alauddin Hilmi.
 
+Sebagian penjelasan materi tutorial diadaptasi dari https://gitlab.com/csui-gamedev/tutorials 
+
 Lisensi untuk menggunakan, menggubah, memperbaiki, dan membuat ciptaan turunan
 dari koleksi materi tutorial ini diatur dalam dua lisensi: [Creative Commons Attribution Share-Alike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 dan [MIT](https://opensource.org/licenses/MIT). Lisensi CC BY-SA 4.0 berlaku
